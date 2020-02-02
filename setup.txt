@@ -1,0 +1,5 @@
+sudo chown -R sander /path/to/folder
+
+git push --set-upstream git@github.com:delden08/crudbuild.git master
+
+vi ~/.ssh/id_rsa.pub
